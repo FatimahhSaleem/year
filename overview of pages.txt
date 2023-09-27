@@ -1,0 +1,12 @@
+Main page 	(done)
+Sign up page 	(done)
+forget password page
+Login In page	(done)
+Form for patient	(done)
+Form for Psychologist	(done)
+interface for psychologist	(done)
+interface for patient
+chat
+blog
+feedback
+admin panel
